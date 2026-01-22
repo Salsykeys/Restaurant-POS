@@ -1,4 +1,4 @@
-import { popularDishes } from "../../pages";
+import { popularDishes } from "../../constants/index";
 
 const PopularDishes = () => {
   return (
